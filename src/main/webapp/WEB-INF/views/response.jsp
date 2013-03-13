@@ -3,8 +3,8 @@
 ${callback}
 ({
     "responsMessage" :
-    ${responsMessage}
+    '${responsMessage}'
     ,
     "responsData" :
-    ${responseData}
+    '${responseData}'
 })
